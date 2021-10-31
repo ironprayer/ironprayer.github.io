@@ -16,12 +16,12 @@ minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "d
 
 # Site Settings
 locale: "ko-KR"
-title: "Love in IT"
+title: "IT, 소통의 징검다리"
 title_separator: "-"
-subtitle: "IT로 따뜻한 세상을 만듭니다"
-name: "john"
+subtitle: "IT는 더 나은 세상을 만듭니다"
+name: "정지현"
 description: ""
-url: "https://beautifultools.github.io"
+url: "https://ironprayer.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name: "정주온"
-  avatar: "/assets/images/avatar.jpeg"
-  bio: "**기술과 인문학의 교차점**에서 세상의 **작은 부분**을 바꾸는 **매력적인 혁신가** <br/><br/> IT는 현재의 기술과 방법으로 해결하지 못하는 이웃의 문제를 해결할 수 있는 선물입니다."
+  name: "정지현"
+  avatar: "/assets/images/myPhoto.jpeg"
+  bio: "**기술과 세상을 이어** 소외된 사람들에게**더 나은 환경을**제공하고 싶은 개발자**"
   location: "서울"
-  email: "lord1229@gmail.com"
+  email: "ironprayer1208@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/beautifultools?tab=repositories"
+      url: "https://github.com/ironprayer?tab=repositories"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
