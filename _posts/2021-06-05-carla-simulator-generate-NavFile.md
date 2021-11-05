@@ -1,4 +1,11 @@
-## Carla Simulator Nav( format - bin ) 파일 생성 방법
+---
+
+layout: single
+title: "[자율주행] Carla Simulator Nav( format - bin) 파일 생성 방법"
+category: "tech"
+tags: python
+
+---
 
 ### 환경설정
 
