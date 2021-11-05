@@ -1,3 +1,12 @@
+---
+
+layout: single
+title: "[NLP] SheepTalk With DFSA"
+category: "tech"
+tags: NLP
+
+---
+
 ### Dterministic-Finite-State Automata(DFSA)
 
 - 컴퓨터 프로그램과 전자 논리 회로를 설계하는 데에 쓰이는 수학적 모델 (상태기계)
