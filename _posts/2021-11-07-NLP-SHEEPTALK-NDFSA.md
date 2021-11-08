@@ -40,7 +40,7 @@ class FSA :
     def __init__(self, states, alphabet, start_state, final_state, transition_table, state_map, alphabet_map)
 ~~~
 
-- DFSA Model 기본 구성요소 초기화
+- FSA Model 기본 구성요소 초기화
   - **Q** : states
   - **Σ** : alphabet
   - **δ** : transition_table
