@@ -10,14 +10,20 @@ tags: NLP
 ### Dterministic-Finite-State Automata(DFSA)
 
 - 컴퓨터 프로그램과 전자 논리 회로를 설계하는 데에 쓰이는 수학적 모델 (상태기계)
-- DFSA Model 은 다음과 같은 5원소 쌍 (quintuple) 으로 정의된다.
-- - - **M = (Q, Σ, δ, q0, F)**
 
-    - ​	**Q** 는 내부 상태 (internal state) 들의 유한 집합이다.
-      ​	**Σ** 는 문자들의 유한 집합이며, 입력 알파벳 (input alphabet) 으로 불린다.
-      ​	**δ** : Q × Σ → Q 는 전체 함수(total function)이며, 전이 함수 (transition function) 라 불린다.
-      ​	**q0 ∈ Q** 는 초기 상태 (initial state) 를 의미한다.
-      ​	**F ⊆ Q** 는 종료 상태 (final state) 들의 집합을 의미한다
+- DFSA Model 은 다음과 같은 5원소 쌍 (quintuple) 으로 정의된다.
+
+  ​		**M = (Q, Σ, δ, q0, F)**
+
+  ​			**Q** 는 내부 상태 (internal state) 들의 유한 집합이다.
+
+  ​			**Σ** 는 문자들의 유한 집합이며, 입력 알파벳 (input alphabet) 으로 불린다.
+
+  ​			**δ** : Q × Σ → Q 는 전체 함수(total function)이며, 전이 함수 (transition function) 라 불린다.
+
+  ​			**q0 ∈ Q** 는 초기 상태 (initial state) 를 의미한다.
+
+  ​			**F ⊆ Q** 는 종료 상태 (final state) 들의 집합을 의미한다
 
 #### DFSA를 통한 Sheeptalk 인식 Python 구현
 

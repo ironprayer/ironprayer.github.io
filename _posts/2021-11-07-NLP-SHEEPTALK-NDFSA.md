@@ -128,7 +128,7 @@ def isAcceptState(current_state, tape_end, accept_state) :
 
       - 조건1(입력문자열 마지막 문자)과 조건2(현재 상태과 수락 상태)이 참일 경우
 
-        		-	True 반환
+        	- True 반환
 
       - 그 이외의 경우
 
@@ -203,7 +203,7 @@ def getTransitionAgendaList(machine:FSA, current_node, current_tape, index) :
 
   2-5. next 함수
 
-  	- agenda에 담긴 다음 상태를 반환해주는 함수
+  - agenda에 담긴 다음 상태를 반환해주는 함수
 
 ~~~python
 def next(agenda) :
